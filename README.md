@@ -10,10 +10,10 @@ Follow along the main documentation to understand FastAPI and a blog or todo app
 
 | Topic                                      |  Day       | ✅ Done |
 |--------------------------------------------|------------|--------|
-| First Steps                                |  Tuesday   | [ ]    |
-| Path Parameters                            |  Tuesday   | [ ]    |
-| Query Parameters                           |  Tuesday   | [ ]    |
-| Request Body                               |  Tuesday   | [ ]    |
+| First Steps                                |  Tuesday   | [X]    |
+| Path Parameters                            |  Tuesday   | [X]    |
+| Query Parameters                           |  Tuesday   | [X]    |
+| Request Body                               |  Tuesday   | [X]    |
 | Query Parameters and String Validations    |  Wednesday | [ ]    |
 | Path Parameters and Numeric Validations    |  Wednesday | [ ]    |
 | Query Parameter Models                     |  Wednesday | [ ]    |
