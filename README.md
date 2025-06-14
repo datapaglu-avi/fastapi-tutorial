@@ -15,9 +15,9 @@ Follow along the main documentation to understand FastAPI and a blog or todo app
 | Query Parameters                           |  Tuesday   |  ✅      |
 | Request Body                               |  Tuesday   |  ✅      |
 | Assignment 00-04                           |  Wednesday |  ✅      |
-| Query Parameters and String Validations    |  Wednesday |  ☑️      |
-| Path Parameters and Numeric Validations    |  Wednesday |  ☑️      |
-| Query Parameter Models                     |  Wednesday |  ☑️      |
+| Query Parameters and String Validations    |  Saturday (Before Lunch, Expected Wed) |  ✅      |
+| Path Parameters and Numeric Validations    |  Saturday (Before Lunch, Expected Wed) |  ✅      |
+| Query Parameter Models                     |  Saturday (Before Lunch, Expected Wed) |  ✅      |
 | Body - Multiple Parameters                 |  Thursday  |  ☑️      |
 | Body - Fields                              |  Thursday  |  ☑️      |
 | Body - Nested Models                       |  Thursday  |  ☑️      |
