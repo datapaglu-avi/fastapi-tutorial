@@ -1,10 +1,22 @@
-# FastAPI Tutorial
+# 🚀 FastAPI in a Week — From Docs to Deployed API
 
-Follow along the main documentation to understand FastAPI and a blog or todo app at end with:
+Welcome to my personal FastAPI learning journey!
 
-1. CRUD
-2. User Access & Auth
-3. Connection to frontend
+This repo tracks my one-week deep dive into FastAPI, following the official documentation (Chapters 0–7).  
+The goal? To go from first steps to building a production-grade **NewsAPI clone** and backend for **TL;DL**, my AI-powered news summarization platform.
+
+---
+
+## 📌 What's Inside
+
+- 📘 Code + notes from each chapter of the FastAPI docs  
+- 🧪 Hands-on assignments and working solutions - Assignment generated from ChatGPT :)
+
+---
+
+📍 Follow along, fork, or try the assignments yourself!
+
+---
 
 ## FastAPI 1-Week Study Plan
 
@@ -18,6 +30,7 @@ Follow along the main documentation to understand FastAPI and a blog or todo app
 | Query Parameters and String Validations    |  Saturday (Before Lunch, Expected Wed) |  ✅      |
 | Path Parameters and Numeric Validations    |  Saturday (Before Lunch, Expected Wed) |  ✅      |
 | Query Parameter Models                     |  Saturday (Before Lunch, Expected Wed) |  ✅      |
+| Assignment 00-04                           |  Saturday (6PM, Expected Sat 2PM -- Occupied with 🇿🇦 WTC) |  ✅      |
 | Body - Multiple Parameters                 |  Thursday  |  ☑️      |
 | Body - Fields                              |  Thursday  |  ☑️      |
 | Body - Nested Models                       |  Thursday  |  ☑️      |
@@ -49,3 +62,6 @@ Follow along the main documentation to understand FastAPI and a blog or todo app
 | Static Files                               |  Sunday    |  ☑️      |
 | Testing                                    |  Sunday    |  ☑️      |
 | Debugging                                  |  Sunday    |  ☑️      |
+
+
+** Sickness Note: I was sick on Thursday & Friday, so I couldn't complete the tasks on time. I will catch up on the missed topics over weekend.**
