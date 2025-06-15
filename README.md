@@ -19,7 +19,6 @@ The goal? To go from first steps to building a production-grade **NewsAPI clone*
 ---
 
 ## FastAPI 1-Week Study Plan
-
 | Topic                                      |  Day       | ✅ Done  |
 |--------------------------------------------|:----------:|:--------:|
 | First Steps                                |  Tuesday   |  ✅      |
@@ -35,6 +34,11 @@ The goal? To go from first steps to building a production-grade **NewsAPI clone*
 | Body - Fields                              |  Sunday (After Lunch, Expected Saturday; tired due to fever)  |  ✅      |
 | Body - Nested Models                       |  Sunday (After Lunch, Expected Saturday; tired due to fever)  |  ✅      |
 | Declare Request Example Data               |  Sunday (After Lunch, Expected Saturday; tired due to fever)  |  ✅      |
+
+**NOTE: Taking A break here to get started with the NewsAPI project, will continue learning when above learnt concepts are applied in the NewsAPI project**
+
+| Topic                                      |  Day       | ✅ Done  |
+|--------------------------------------------|:----------:|:--------:|
 | Extra Data Types                           |  Friday    |  ☑️      |
 | Cookie Parameters                          |  Friday    |  ☑️      |
 | Header Parameters                          |  Friday    |  ☑️      |
@@ -64,4 +68,4 @@ The goal? To go from first steps to building a production-grade **NewsAPI clone*
 | Debugging                                  |  Sunday    |  ☑️      |
 
 
-** Sickness Note: I was sick on Thursday & Friday, so I couldn't complete the tasks on time. I will catch up on the missed topics over weekend.**
+**Sickness Note: I was sick on Thursday & Friday, so I couldn't complete the tasks on time. I will catch up on the missed topics over weekend.**
