@@ -76,7 +76,7 @@ class ItemHttp(BaseModel):
     price: float
     tax: float | None = None
     tags: set[str] = set()
-    image: Image | None = None
+    image: ImageHttp | None = None
 
 @app.put("/items_http/{item_id}")
 async def update_item(item_id: int, item: ItemHttp):

@@ -34,7 +34,7 @@ The goal? To go from first steps to building a production-grade **NewsAPI clone*
 | Body - Multiple Parameters                 |  Sunday (After Lunch, Expected Saturday; tired due to fever)  |  ✅      |
 | Body - Fields                              |  Sunday (After Lunch, Expected Saturday; tired due to fever)  |  ✅      |
 | Body - Nested Models                       |  Sunday (After Lunch, Expected Saturday; tired due to fever)  |  ✅      |
-| Declare Request Example Data               |  Thursday  |  ☑️      |
+| Declare Request Example Data               |  Sunday (After Lunch, Expected Saturday; tired due to fever)  |  ✅      |
 | Extra Data Types                           |  Friday    |  ☑️      |
 | Cookie Parameters                          |  Friday    |  ☑️      |
 | Header Parameters                          |  Friday    |  ☑️      |
