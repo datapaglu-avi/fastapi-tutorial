@@ -31,9 +31,9 @@ The goal? To go from first steps to building a production-grade **NewsAPI clone*
 | Path Parameters and Numeric Validations    |  Saturday (Before Lunch, Expected Wed) |  ✅      |
 | Query Parameter Models                     |  Saturday (Before Lunch, Expected Wed) |  ✅      |
 | Assignment 00-04                           |  Saturday (6PM, Expected Sat 2PM -- Occupied with 🇿🇦 WTC) |  ✅      |
-| Body - Multiple Parameters                 |  Thursday  |  ☑️      |
-| Body - Fields                              |  Thursday  |  ☑️      |
-| Body - Nested Models                       |  Thursday  |  ☑️      |
+| Body - Multiple Parameters                 |  Sunday (After Lunch, Expected Saturday; tired due to fever)  |  ✅      |
+| Body - Fields                              |  Sunday (After Lunch, Expected Saturday; tired due to fever)  |  ✅      |
+| Body - Nested Models                       |  Sunday (After Lunch, Expected Saturday; tired due to fever)  |  ✅      |
 | Declare Request Example Data               |  Thursday  |  ☑️      |
 | Extra Data Types                           |  Friday    |  ☑️      |
 | Cookie Parameters                          |  Friday    |  ☑️      |
